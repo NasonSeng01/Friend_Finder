@@ -2,9 +2,6 @@
 
 In need of a friend? Well this app can help you find that special someone. After filling out a quick survey, our friend-matching algorithm will pair you with an individual in our network.
 
-## Live Link
- - https://murmuring-island-94264.herokuapp.com/
-
  ## Technologies Used
 
 - JavaScript
