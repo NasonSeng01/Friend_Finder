@@ -1,0 +1,23 @@
+{
+  "name": "friend_finder",
+  "version": "1.0.0",
+  "description": "In need of a friend? Well this app can help you find that special someone. After filling out a quick survey, our friend-matching algorithm will pair you with an individual in our network.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NasonSeng01/Friend_Finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NasonSeng01/Friend_Finder/issues"
+  },
+  "homepage": "https://github.com/NasonSeng01/Friend_Finder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
